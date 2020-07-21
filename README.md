@@ -2,9 +2,9 @@
  Allow players to move restrained players
  
 # Commands
-/escort
-/load
-/unload
+/escort<br>
+/load<br>
+/unload<br>
 
 # Config
 arrestMoveSpeed - float - Move speed of a restrained player<br>
