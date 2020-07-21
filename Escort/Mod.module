@@ -1,0 +1,12 @@
+{
+	"IsEnabled": true,
+	"Name": "Escort Module",
+	"Version": "0.0.0",
+	"Assemblies":
+	[
+		{
+			"Path": "/Escort.dll",
+			"Role": "Server"
+		}
+	]
+}
