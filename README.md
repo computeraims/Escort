@@ -12,4 +12,4 @@ allowEntryArrest - bool - Allow arrested players to enter vehicles<br>
 allowExitArrest - bool - Allow arrested players to exit vehicles<br>
 
 # Support
-For plugin support join Discord https://discord.com/invite/ADUmgFt
+For plugin support join Discord https://discord.gg/CteHzWr
