@@ -66,7 +66,6 @@
   <ItemGroup>
     <Compile Include="EscortManager.cs" />
     <Compile Include="Main.cs" />
-    <Compile Include="Models\HyperCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils\ConfigHelper.cs" />
     <Compile Include="Utils\Patcher.cs" />
